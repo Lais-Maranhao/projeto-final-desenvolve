@@ -30,8 +30,4 @@
 
 ---
 
-Se quiser exemplos práticos ou testar cada etapa separadamente, posso te ajudar!
-
----
-
-Sobre o dataset limpo para análise: foi salvo como `data/train_data_limpo.csv`. Se não encontrar, execute novamente a célula que gera esse arquivo no notebook. Se precisar, posso te mostrar o código para garantir que ele seja criado.
+Sobre o dataset limpo para análise: foi salvo como `data/train_data_limpo.csv`. 
